@@ -14,7 +14,7 @@
 ## Favorite Song atm
 -Click the image to play it
 
-[![Check Out](https://cdn.discordapp.com/attachments/829214169605341195/999471597297610794/toliver.500x500x1.jpg)](https://youtu.be/4IahvCIqeOc)
+[![Check Out](https://cdn.discordapp.com/attachments/829214169605341195/999471597297610794/toliver.1000x1000x1.jpg)](https://youtu.be/4IahvCIqeOc)
 
 
 ## Visitors
