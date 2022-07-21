@@ -8,7 +8,7 @@
 
 
 ## My Discord
-![Discord](https://discord.c99.nl/widget/theme-3/829022689338851389.png)
+![Discord]([https://discord.c99.nl/widget/theme-3/829022689338851389.png](https://discord.c99.nl/widget/theme-3/829022689338851389.png))
 
 
 ## Favorite Song atm
