@@ -1,7 +1,7 @@
 ## Hi, I am GhostLeaks! <img src="https://raw.githubusercontent.com/Ghost-ikon/Ghost-ikon/master/zerotwo.gif" width="30px">
 
 
-## ⚡ Technologies I use
+## 😸 Technologies I use
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
