@@ -11,6 +11,10 @@
 ![Discord](https://discord.c99.nl/widget/theme-3/829022689338851389.png)
 
 
+## Currently working on
+A fortnite companion, Connect your Fortnite account with Rainbow to manage it, etc.
+
+
 ## Favorite Song atm
 -Click the image to play it
 
