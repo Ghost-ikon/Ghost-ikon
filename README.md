@@ -14,7 +14,7 @@
 ## Favorite Song atm
 -Click the image to play it
 
-[![Check Out]([https://cdn.discordapp.com/attachments/829214169605341195/999476239649751133/dontoliver.jpg)](https://youtu.be/4IahvCIqeOc)
+[![Check Out](https://cdn.discordapp.com/attachments/829214169605341195/999476239649751133/dontoliver.jpg)](https://youtu.be/4IahvCIqeOc)
 
 
 ## Visitors
