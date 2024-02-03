@@ -12,7 +12,7 @@
 
 
 ## Currently working on
-A fortnite companion, Connect your Fortnite account with Rainbow to manage it, etc.
+A Minecraft server
 
 
 ## Favorite Song atm
