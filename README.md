@@ -12,7 +12,7 @@
 
 
 ## Currently working on
-My life
+My life (Retired)
 
 
 ## Favorite Song atm
